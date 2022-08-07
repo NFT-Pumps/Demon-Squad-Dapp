@@ -154,7 +154,7 @@ const MintPage = () => {
                         : <h1 style={{ color: "#e9e2d5"}}>You are not on the whitelist</h1>}
                       <a
                         onClick={() => walletBridge1.disconnect()}
-                        className="btn btn-md m-t-30 btn-outline-dark" style={{ backgroundColor: "#741ea1" }}
+                        className="btn btn-md m-t-30 btn-outline-dark" style={{ backgroundColor: "#044022" }}
                       >
                         Disconnect Wallet
                       </a>
